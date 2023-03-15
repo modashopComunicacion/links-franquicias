@@ -178,6 +178,7 @@ body {
         margin-bottom: 10px;
       }
 
+
       div .wpp {
         width: 900px;
         margin-left: 40px;
@@ -195,6 +196,7 @@ body {
         margin: 10px 0;
         text-align: center;
         border-radius: 20px;
+        letter-spacing: 1px;
       }
     
       .links a img {
