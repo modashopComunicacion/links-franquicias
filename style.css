@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
 
+html, body {
+  height: 100%;
+}
 
 body {
     width: 100%;
-    height: 100vh;
-    background:#ee377c;
+  background: #f93882;
+ 
     justify-content: center;
         text-align: center;
         align-items: center;
@@ -33,8 +36,9 @@ body {
 
   .logo {
     width: 100px;
-    border-radius: 50%;
+    border-radius: 50%
   }
+
   
   .contacto {
     color: white;
@@ -84,31 +88,32 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: white;
     width: 500px;
     height: 60px;
     margin: 10px;
     text-align: center;
     text-decoration: none;
     color: #000000;
-    border: 1px solid #000000;
     border-radius: 20px;
   }
 
   .links a:hover{
-    background-color: #ee377c;
+    background-color: #da3e7a;
     color: white;
     line-height: 70px;
-    border: 1px solid white;
+    border: 2px solid #f93882;
     width: 550px;
     height: 70px;
-    transition: .5s;
+    transition: .6s;
   }
   
   .links a img {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin-bottom: 20px;
     border-radius: 20px;
+    padding: 8px;
   }
   
   .links a span {
