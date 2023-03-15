@@ -98,6 +98,10 @@ body {
     border-radius: 20px;
   }
 
+  .sumate {
+    letter-spacing: 1px;
+  }
+
   .links a:hover{
     background-color: #da3e7a;
     color: white;
@@ -164,18 +168,25 @@ body {
       .container {
         max-width: 90%;
       }
+
+      .franquicias {
+        line-height: 30px;
+      }
     
       .header h1 {
         font-size: 24px;
         margin-bottom: 10px;
       }
 
-      .wpp {
+      div .wpp {
         width: 900px;
         margin-left: 40px;
+        height: 100px;
+        margin-top: -5px;
         text-align: center;
         justify-content: center;
         align-items: center;
+        
       }
     
       .links a {
