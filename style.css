@@ -124,44 +124,7 @@ body {
     font-size: 14px;
   }
 
-  /* @media screen and (min-width: 450px) {
-    
-    body {
-        width: 100%;
-        height: 100vh;
-        background:#ee377c; 
-        justify-content: center;
-        text-align: center;
-        align-items: center;
-      }
-    
-    .links {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        line-height: 90px;
-        
-    }
-
-    .links a {
-      width: 500px;
-      height: 90px;
-    }
-    
-    .links a img {
-      width: 400px;
-      height: 400px;
-      margin-bottom: 10px;
-    }
-    
-    .links a span {
-      font-size: 15px;
-    }
-
-    .email {
-        margin: 20px;
-    } */
+ 
 
     @media only screen and (max-width: 768px) {
 
