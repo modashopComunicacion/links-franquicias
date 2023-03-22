@@ -2,15 +2,11 @@
 
 
 html {
-  background: linear-gradient(to bottom, #f93882, #781c3f);
+  background: #f93882;
   height: 844vh;
 }
 
 
-html,
-body {
-  
-}
 
 body {
   width: 100%;
